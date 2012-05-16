@@ -1,0 +1,56 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+photo_1:
+  id: 1
+  filename: train.jpg
+  thumb: train_t.jpg
+  description: Meu caminho para trabalhar
+
+
+photo_2:
+  id: 2
+  filename: lighthouse.jpg
+  thumb: lighthouse_t.jpg
+  description: eu pego dados aqui o tempo todo
+
+photo_3:
+  id: 3
+  filename: gargolye.jpg
+  thumb: gargolye_t.jpg
+  description: meu peso de pápeis
+
+photo_4:
+  id: 4
+  filename: cat.jpg
+  thumb: cat.jpg
+  description: meu bixinho de estimação
+
+photo_5:
+  id: 5
+  filename: cappucino.jpg
+  thumb: cappucino_t.jpg
+  description: sudo da vida
+
+photo_6:
+  id: 6
+  filename: building.jpg
+  thumb: building_t.jpg
+  description: meu escritório
+
+photo_7:
+  id: 7
+  filename: brige.jpg
+  thumb:  bridge_t.jpg
+  description: um lugar que gosto de visitar
+
+photo_8:
+  id: 8
+  filename: bear.jpg
+  thumb: bear_t.jpg
+  description: dia do zoo
+
+photo_9:
+  id: 9
+  filename: basket.jpg
+  thumb: basket_t.jpg
+  description: onde eu colho minhas frutas
